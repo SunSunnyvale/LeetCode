@@ -11,7 +11,13 @@ Show Company Tags
 Show Tags
 Show Similar Problems 
 
-Solution: Idea is to put use the undordered_map for getting the
+Solution: 
+1. Idea is to put use the undordered_map of all the elements and start looking for a solution. 
+2. Another idea is to sort the elements in the vector and use binary search to find the diff of the target. 
+
+
+The first solutions beats 90.1% of CPP submisstions on March 29th, 2017
+
 */
 
 class Solution {
